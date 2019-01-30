@@ -33,6 +33,7 @@ i {
 }
 .card {
     background: white;
+    opacity: 0,5;
     padding: 20px;
     margin-bottom: 20px;
     border-radius: 4px;
