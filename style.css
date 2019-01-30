@@ -32,8 +32,7 @@ i {
     text-align: center;
 }
 .card {
-    background: white;
-    opacity: 0,5;
+    background: rgba(0, 0, 0, 0.4);
     padding: 20px;
     margin-bottom: 20px;
     border-radius: 4px;
