@@ -1,12 +1,12 @@
 
 body {
-    background: #EBEBEB;
+
     font-family: 'Roboto', sans-serif;
     font-weight: 400;
     color: #7d7d7d;
     font-size: 15px;
     line-height: 1.6em;
-    background-image: url('images/homeofthebrave.jpg');/* if you want the light version */
+    background-image: url('images/home.jpg');
 }
 body {
     display: block;
