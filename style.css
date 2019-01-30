@@ -8,10 +8,10 @@ body {
     line-height: 1.6em;
     background-image: url('images/home.jpg');
     background-size: cover;
-}
-body {
     display: block;
     margin: 8px;
+}
+
 }
 h1{
     font-family: 'Open Sans', sans-serif;
